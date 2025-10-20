@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mathe/Downloads/mlruns/520109412216588214/348f767919704b3da08fe9133f9837d2/artifacts
+end_time: 1760956013322
+entry_point_name: ''
+experiment_id: '520109412216588214'
+lifecycle_stage: active
+run_id: 348f767919704b3da08fe9133f9837d2
+run_name: Multinomial NB
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760956009291
+status: 3
+tags: []
+user_id: mathe

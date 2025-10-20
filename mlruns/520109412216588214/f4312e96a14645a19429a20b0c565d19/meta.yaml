@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mathe/Downloads/mlruns/520109412216588214/f4312e96a14645a19429a20b0c565d19/artifacts
+end_time: 1760955995871
+entry_point_name: ''
+experiment_id: '520109412216588214'
+lifecycle_stage: active
+run_id: f4312e96a14645a19429a20b0c565d19
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760955990430
+status: 3
+tags: []
+user_id: mathe

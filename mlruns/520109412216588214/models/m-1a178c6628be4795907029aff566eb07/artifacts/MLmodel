@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/mathe/Downloads/mlruns/520109412216588214/models/m-1a178c6628be4795907029aff566eb07/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-1a178c6628be4795907029aff566eb07
+model_size_bytes: 200693
+model_uuid: m-1a178c6628be4795907029aff566eb07
+prompts: null
+run_id: 29fd908cb7fd400bb5ff030984fb39f6
+utc_time_created: '2025-10-20 10:26:45.787882'

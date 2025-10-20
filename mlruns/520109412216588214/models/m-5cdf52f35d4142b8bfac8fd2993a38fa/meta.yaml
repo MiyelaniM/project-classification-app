@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/mathe/Downloads/mlruns/520109412216588214/models/m-5cdf52f35d4142b8bfac8fd2993a38fa/artifacts
+creation_timestamp: 1760955991520
+experiment_id: '520109412216588214'
+last_updated_timestamp: 1760955995852
+model_id: m-5cdf52f35d4142b8bfac8fd2993a38fa
+model_type: null
+name: model
+source_run_id: f4312e96a14645a19429a20b0c565d19
+status: 2
+status_message: null

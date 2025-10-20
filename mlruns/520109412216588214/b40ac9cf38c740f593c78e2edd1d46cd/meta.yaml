@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mathe/Downloads/mlruns/520109412216588214/b40ac9cf38c740f593c78e2edd1d46cd/artifacts
+end_time: 1760957394280
+entry_point_name: ''
+experiment_id: '520109412216588214'
+lifecycle_stage: active
+run_id: b40ac9cf38c740f593c78e2edd1d46cd
+run_name: CatBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760956013338
+status: 3
+tags: []
+user_id: mathe

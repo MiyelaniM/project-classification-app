@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mathe/Downloads/mlruns/520109412216588214/29fd908cb7fd400bb5ff030984fb39f6/artifacts
+end_time: 1760956009291
+entry_point_name: ''
+experiment_id: '520109412216588214'
+lifecycle_stage: active
+run_id: 29fd908cb7fd400bb5ff030984fb39f6
+run_name: Linear SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760956005372
+status: 3
+tags: []
+user_id: mathe

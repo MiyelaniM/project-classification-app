@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mathe/Downloads/mlruns/520109412216588214/8e29a5a95a14439db1890cdb49d0c7c8/artifacts
+end_time: 1760956005364
+entry_point_name: ''
+experiment_id: '520109412216588214'
+lifecycle_stage: active
+run_id: 8e29a5a95a14439db1890cdb49d0c7c8
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760955995876
+status: 3
+tags: []
+user_id: mathe
